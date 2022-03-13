@@ -1,5 +1,12 @@
 # googl-drive-app-remote-logout
 
+Google Drive for desktop は、エクスプローラに G ドライブが作成され、
+Google Drive へのアクセスが便利になれりますが、ログアウトし忘れると
+自分のマイドライブや共有ドライブら他人がアクセス可能な状態にしてしまいます
+
+その場合、Google アカウントより権限の削除を行う事により、強制的にログアウト可能です
+( ブラウザへのログインも【お使いのデバイス】より解除できます )
+
 ### 🔴 セキュリティ
 
 ![image](https://user-images.githubusercontent.com/1501327/158083206-33ccb586-ff6c-4d8f-bf6e-4982899218b7.png)
