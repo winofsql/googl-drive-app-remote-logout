@@ -21,3 +21,7 @@
 ### 🔴 ログインを要求されます
 
 ![image](https://user-images.githubusercontent.com/1501327/158083306-4289c2c0-f1d3-42b2-ac79-4491270d0a18.png)
+
+### 🔴 最終的には初期状態になります
+
+![image](https://user-images.githubusercontent.com/1501327/158083342-a52beedf-3f78-4542-8794-a87775d83814.png)
