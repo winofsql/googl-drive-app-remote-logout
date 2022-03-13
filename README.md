@@ -20,4 +20,4 @@
 
 ### 🔴 ログインを要求されます
 
-![image](https://user-images.githubusercontent.com/1501327/158083115-f9240a82-92c2-4bf4-8504-f9cf31dbd491.png)
+![image](https://user-images.githubusercontent.com/1501327/158083306-4289c2c0-f1d3-42b2-ac79-4491270d0a18.png)
