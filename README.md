@@ -2,7 +2,7 @@
 
 ### 🔴 セキュリティ
 
-![image](https://user-images.githubusercontent.com/1501327/158082731-45cf2483-9dff-4067-97fd-65922b243bd9.png)
+![image](https://user-images.githubusercontent.com/1501327/158083206-33ccb586-ff6c-4d8f-bf6e-4982899218b7.png)
 
 ### 🔴 Googel でログイン
 
