@@ -10,7 +10,7 @@
 
 ### 🔴 アプリを選択
 
-![image](https://user-images.githubusercontent.com/1501327/158083260-e7dd7390-676a-4b51-b4f4-8509414fc4e5.png)
+![image](https://user-images.githubusercontent.com/1501327/158083276-60ea389b-4575-43ed-86da-f682d10d4a44.png)
 
 ### 🔴 権限を削除
 
