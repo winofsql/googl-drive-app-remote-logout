@@ -6,7 +6,7 @@
 
 ### 🔴 Googel でログイン
 
-![image](https://user-images.githubusercontent.com/1501327/158082762-33ba5898-8e02-4d09-8599-7f035ee6b00d.png)
+![image](https://user-images.githubusercontent.com/1501327/158083234-9899b313-3868-48c3-94c5-59cb4ae94edd.png)
 
 ### 🔴 アプリを選択
 
