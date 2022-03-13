@@ -14,7 +14,7 @@
 
 ### 🔴 権限を削除
 
-![image](https://user-images.githubusercontent.com/1501327/158082859-a2257de1-5ef4-49b3-a539-97253a91e036.png)
+![image](https://user-images.githubusercontent.com/1501327/158083297-60cb89f5-0a09-47bf-a514-15c8a971a9b8.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/158082875-a83cadfe-e7a7-40cd-b79e-c7352fa36626.png)
 
